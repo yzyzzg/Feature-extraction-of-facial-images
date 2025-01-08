@@ -1,0 +1,14 @@
+test.py 测试模型
+train.py 训练模型
+dataset.py 数据集载入
+label.py 将faceDR.txt的标签进行编码，每一种特征组合对应一个数字
+decode.py 根据数字标签逆推特征值
+config.py 训练参数和数据集地址设置
+rawdata2jpg.m matlab代码，将原始二进制图片格式转为jpg格式
+faceDR.txt 人脸标签
+test.txt test人脸标签
+train.txt train人脸标签
+visualizer.py 可视化
+view_model.py 模型结构查看
+
+
