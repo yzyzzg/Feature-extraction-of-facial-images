@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on 18-5-21 下午5:26
 
-@author: ronghuaiyang
-"""
 import torch
 import torch.nn as nn
 import math
